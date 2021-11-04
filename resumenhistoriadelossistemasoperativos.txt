@@ -1,0 +1,12 @@
+Resumen de la historia de los Sistemas Operativos
+
+Se han desarrollado muchos sistemas operativos a lo largo de la historia
+de la informatica, esto han evolucionado satisfaciendo las necesidades
+emergentes. el video enlista de forma cronologica los mas destacados 
+de esta historia, de los que vale la pena resaltar al (CTSS) que fue el 
+primero, la aparicion de Unix, el primer SO de Apple(Mac OS), el primer 
+sistema vendido por microsoft el (MS DOS), el inicio de la competencia
+de Apple y microsoft los que dominaron el mercado por muchos años; llegando
+a tiempos mas reciente con la aparicion de Ubuntu, el SO windows, el 
+IOS compatible con todos los dispositivos Apple, no menos importante el
+SO Android, culminando con la mencion del Windows 10 y el Linux movil

@@ -1,0 +1,13 @@
+Resumen Sistemas Operativos
+
+Un sistrema Operativo es un conjunto de programas que ejecuta el software 
+en el dispositivo, tambien se puede definir como la interfas entre el 
+hardware y el ususario, de los mas populares actualmente son el windows,
+Mac OS y linus, siendo windows el mas popular en computadoras, Mac OS y 
+Android en moviles y Linux como software libre.
+Como propiedades importantes de los sistemas operativos estan: la habilidad
+para evolucionar, administrar el hardware, comunicar perifericos, organizar
+datos dando prioridades segun las necesidades del usurio, entro otros.
+de los distintos sistemas estan los multitarea que ejecutan varios programas
+a la ves y los sistemas multiusurios que administra un hardware entre 
+distintos usuarios
